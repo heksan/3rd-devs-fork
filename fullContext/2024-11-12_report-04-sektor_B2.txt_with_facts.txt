@@ -1,0 +1,5 @@
+CONTENT:
+Godzina 23:45. Patroluje zachodnią część terenu; brak anomalii ani odchyleń od normy. Sektor bezpieczny, wszystkie kanały komunikacyjne czyste. Przechodzę do następnego punktu.
+
+FACTS:
+Sektor B jest miejscem intensywnych prac badawczo-rozwojowych nad nowoczesnymi ogniwami bateryjnymi, które mają zrewolucjonizować wydajność energetyczną zarówno w przemyśle, jak i zastosowaniach militarnych. Pracują tu zespoły inżynierów i naukowców, którzy codziennie testują prototypy ogniw o wysokiej gęstości energetycznej, starając się zwiększyć ich pojemność, trwałość oraz odporność na ekstremalne warunki. Laboratoria w sektorze B są wyposażone w zaawansowane aparaty diagnostyczne, które umożliwiają analizę mikroskopijnych struktur materiałów, co pozwala na stałe udoskonalanie składu chemicznego ogniw.

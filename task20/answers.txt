@@ -1,0 +1,12 @@
+
+{
+  "task": "notes",
+  "apikey": "1290eb68-2031-404f-bfda-cf5dcd1a263d",
+  "answer": {
+    "01": "2019",
+    "02": "Adam.",
+    "03": "jaskinia za miastem",
+    "04": "2024-11-12",
+    "05": "Rafał chce się dostać do Lubawy koło grudziądza po spotkaniu z Andrzejem."
+  }
+}

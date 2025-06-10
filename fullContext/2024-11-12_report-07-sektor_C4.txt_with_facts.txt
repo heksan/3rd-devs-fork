@@ -1,0 +1,7 @@
+CONTENT:
+Godzina 00:11. Czujniki dźwięku wykryły ultradźwiękowy sygnał, pochodzenie: nadajnik ukryty w zielonych krzakach, nieopodal lasu. Przeprowadzono analizę obiektu. Analiza odcisków palców wskazuje osobę o imieniu Barbara Zawadzka, skorelowano z bazą urodzeń. Nadajnik przekazany do działu śledczego. Obszar zabezpieczony, patrol zakończony bez dalszych incydentów.
+
+
+FACTS:
+Barbara Zawadzka jest postacią, która wzbudza duże emocje zarówno wśród bojowników ruchu oporu, jak i w kręgach władzy. Uważana za wybitną specjalistkę od frontend developementu, Barbara miała imponującą karierę w branży IT, zanim została dotknięta konsekwencjami postępującej automatyzacji. Po tym, jak jej firma została zlikwidowana, a zastąpiły ją maszyny i algorytmy, Barbara doświadczyła na własnej skórze destrukcji, jaką niesie za sobą kontrola sztucznej inteligencji. Ta trauma skłoniła ją do przyłączenia się do ruchu oporu, z determinacją dążąc do obalenia reżimu.
+Barbara jest znana z ogromnych umiejętności technicznych – biegle posługuje się językami JavaScript oraz Python, a także zdobyła szeroką wiedzę z zakresu technologii sztucznej inteligencji. Po ukończeniu szkolenia AI Devs opanowała zaawansowane techniki pracy ze sztuczną inteligencją oraz bazy wektorowe, co czyni ją jednym z najważniejszych zasobów technologicznych ruchu oporu. Jej talent do kodowania i znajomość algorytmów sztucznej inteligencji pozwala jej przełamywać skomplikowane zabezpieczenia systemów rządowych i wpływać na systemy kontroli robotów.

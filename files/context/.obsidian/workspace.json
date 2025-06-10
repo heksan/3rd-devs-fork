@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "6b72fba803769faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "126147e64f1c5ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4a197d5c8d3e10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9783776c18c25a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b2898ed22115c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692ac0e9f1c32a2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a933b70452dea785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8d9d9d907458b6f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "620cea19c05e58b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "086eeabc32bcddcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e9a5798df9d284e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "memories/pizza_preference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for pizza_preference"
+            }
+          },
+          {
+            "id": "ded8c2c0f90abd81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "memories/pizza_preference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from pizza_preference"
+            }
+          },
+          {
+            "id": "0941796193f1ce76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad1fe338df67d4c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "memories/pizza_preference.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pizza_preference"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1a4a197d5c8d3e10",
+  "lastOpenFiles": [
+    "threads/2025-05-14/87023248-2388-48d7-9f84-84cc4929fa7e.md",
+    "memories/cezary_mythical_space_monkey.md",
+    "threads/2025-05-14/4f470f64-3f49-42d3-8658-e8013fcf74d4.md",
+    "memories/pizza_preference.md",
+    "memories/cezary_profile.md",
+    "memories/Untitled 1.canvas",
+    "threads/2025-05-14/bad4673f-a311-4cfd-9104-a916f4216594.md",
+    "memories/Untitled.canvas"
+  ]
+}

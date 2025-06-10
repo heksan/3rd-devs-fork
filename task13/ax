@@ -1,0 +1,18 @@
+{
+    "task": "database",
+    "apikey": "1290eb68-2031-404f-bfda-cf5dcd1a263d",
+    "answer": [4278,9294]
+}
+
+
+
+SELECT d.dc_id
+FROM datacenters d
+JOIN users u ON d.manager = u.id
+WHERE d.is_active = 1
+  AND u.is_active = 0;
+
+
+
+
+  took 1 gpt ask with all create tables, nothing special
